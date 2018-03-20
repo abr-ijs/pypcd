@@ -14,4 +14,5 @@
   <buildtool_depend>catkin</buildtool_depend>
   <depend>rospy</depend>
   <depend>sensor_msgs</depend>
+  <depend>python-lzf-pip</depend>
 </package>
